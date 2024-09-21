@@ -1,4 +1,4 @@
-HALL BOOKING API
+HALL BOOKING ENDPOINTS
 1. Creating a room:
 https://hall-booking-api-1rpf.onrender.com/createroom
 2. Retrive all rooms:
